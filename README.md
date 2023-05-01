@@ -19,8 +19,7 @@
   Git clone the repo, then do npm i to install the necessary dependencies. Run node index.js to run the program and generate the SVG.
 
   ## Usage
-
-[Walkthough Video](https://user-images.githubusercontent.com/123343948/235461059-bfc2e755-de08-406d-9fc0-47ef79d333b4.webm)
+Walkthough Video:[Walkthough Video](https://user-images.githubusercontent.com/123343948/235461059-bfc2e755-de08-406d-9fc0-47ef79d333b4.webm)
 
   <img width="1323" alt="Screenshot 2023-05-01 at 8 39 18 AM" src="https://user-images.githubusercontent.com/123343948/235459917-be274aaf-ed3e-4bd4-8635-78683665bfd0.png">
 <img width="319" alt="Screenshot 2023-05-01 at 8 39 49 AM" src="https://user-images.githubusercontent.com/123343948/235459924-db5cf1c5-c917-4d6d-a7ce-6563e0e9f719.png">
