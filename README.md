@@ -23,7 +23,8 @@
   NEED TO PUT THE VIDEO FILE AND SCREENSHOTS HERE
 
   ## Credits 
-  N/A
+ For this project, I used mdn web docs on SVG as well as W3 schools for SVG documentation. I also refrenced the helful SVG resources provided in the module assignment. 
+
 
   ## License 
   This project uses the MIT license.
@@ -34,7 +35,6 @@
   ## Tests
   To run tests, see the below instructions:
   Run npm test.
-  ADD SCREENSHOTS OF TEST HERE
 
   ## Questions 
   If you have any questions about this repo please contact me directly at vincent.megan23@gmail.com. You can also see my work in GitHUb at (https://www.github.com/MVincent15).
